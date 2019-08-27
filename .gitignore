@@ -1,3 +1,6 @@
+# custom stuff
+[0-9-]*-[a-zA-Z]*-atlast-probes.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
