@@ -2,5 +2,5 @@
 
 ./fetch.sh
 ./filter.sh
-
+./load.sh
 
