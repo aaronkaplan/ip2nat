@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+import sys
+import json
+
+
 debug=False
 
 """ input file format:
@@ -40,9 +44,6 @@ debug=False
                 "longitude": 16.3585,
                 "address_v4": "193.238.159.251",
 """
-
-import sys
-import json
 
 
 def parsejson(j):
